@@ -38,3 +38,5 @@ Depois de criar os arquivos é necessário abrir o prompt de comando dentro dess
 Servidor: Ao executar o servidor ele fica escutando todas as mensagens que chegam e quando chegam ele trata e responde de acordo com o tipo do cliente conectado e o tipo da mensagem.
 Cliente comprador: Ao se conectar ele lista todos os artigos. É possível escolher duas opções “Atualizar lista”, onde ele envia uma mensagem para o servidor e recebe todos os artigos cadastrados até o momento. A segunda opção é “Dar lance”, onde o cliente especifica o id do produto, o valor do lance e o e-mail. 
 Cliente vendedor: Ao se conectar envia para o servidor o nome do artigo, a descrição e o valor mínimo do lance. É responsável por encerrar o leilão digitando a palavra “exit” e teclando enter, assim recebe as informações do vencedor.
+
+--ESSE PROJETO FOI DESENVOLVIDO POR ALUNOS DE SISTEMAS DISTRIBUIDOS | 2022.1
